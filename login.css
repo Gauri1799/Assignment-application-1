@@ -1,0 +1,49 @@
+body{
+    background-color: deepskyblue;
+}
+
+
+.center-box {
+        margin: 200px 100px 200px 500px;
+        height: 300px;
+        width: 500px;         
+        padding: 10px;        
+        background-color: #fff;
+        border-radius: 8px;   
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        text-align: center;  
+ }
+
+ p{
+    text-align: left;
+    color: dodgerblue;
+    font-size: 20px;
+    padding-left:40px ;
+ }
+
+form{
+    text-align: left;
+    padding-left: 40px;
+}
+
+#username{
+    background-color: silver;
+    width:350px;
+    height:25px;
+}
+
+#password{
+    background-color:silver;
+    width:350px;
+    height:25px;
+}
+   
+   
+ 
+
+ .button{
+    background-color: dodgerblue;
+    width: 300px;
+    height:30px;
+
+ }
